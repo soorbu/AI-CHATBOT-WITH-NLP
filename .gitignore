@@ -1,0 +1,13 @@
+# Ignore Python virtual environment
+botvenv/
+__pycache__/
+*.pyc
+
+# Ignore environment files
+.env
+
+# VS Code settings
+.vscode/
+
+# Model cache (if needed)
+~/.cache/

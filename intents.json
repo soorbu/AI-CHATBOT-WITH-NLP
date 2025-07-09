@@ -1,0 +1,27 @@
+[
+  {
+    "tag": "greeting",
+    "patterns": ["hello", "hi", "hey", "good morning", "good evening"],
+    "responses": ["Hello!", "Hi there!", "Hey! How can I help you today?"]
+  },
+  {
+    "tag": "name",
+    "patterns": ["what is your name", "who are you", "your name"],
+    "responses": ["I'm ChatBot, your virtual assistant.", "You can call me ChatBot!"]
+  },
+  {
+    "tag": "goodbye",
+    "patterns": ["bye", "see you", "goodbye", "exit"],
+    "responses": ["Goodbye! Have a nice day.", "See you later!", "Take care!"]
+  },
+  {
+    "tag": "thanks",
+    "patterns": ["thanks", "thank you", "appreciate it"],
+    "responses": ["You're welcome!", "No problem!", "Glad to help!"]
+  },
+  {
+    "tag": "help",
+    "patterns": ["what can you do", "help me", "how can you help"],
+    "responses": ["I can answer your questions and help with basic tasks."]
+  }
+]
