@@ -22,6 +22,6 @@
   {
     "tag": "help",
     "patterns": ["what can you do", "help me", "how can you help"],
-    "responses": ["I can answer your questions and help with basic tasks."]
+    "responses": ["I can answer basic questions and help you summarize texts."]
   }
 ]
