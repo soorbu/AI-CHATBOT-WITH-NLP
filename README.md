@@ -1,16 +1,4 @@
-# Task 1: AI CHATBOT WITH NLP
-
-*COMPANY*:  COTECH IT SOLUTIONS
-
-*NAME*:  SURABHI SANJAY KHATALE
-
-*INTERN ID*:  CT04DG167
-
-*DOMAIN*:  PYTHON PROGRAMMING 
-
-*MENTOR*:  VAISHALI SHRIVASTAVA
-
-*DESCRIPTION*--
+# AI CHATBOT WITH NLP
 
 NLP-Based Chatbot with Text Summarization
 This is a Python-based chatbot built using NLP libraries like NLTK and Hugging Face Transformers. It can respond to predefined intents and also summarize long paragraphs using an AI model (facebook/bart-large-cnn).
